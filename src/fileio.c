@@ -4,7 +4,7 @@ fileio#include <stdio.h>
 void saveToFile(const char *filename, const Employee employees[], int count) {
     FILE *fp = fopen(filename, "w");
     if (fp == NULL) {
-        printf("ファイルを開けませんでした。\n");
+        printf("ファイルを開けませんでした\n");
         return;
     }
 
