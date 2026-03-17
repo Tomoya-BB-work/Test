@@ -3,7 +3,6 @@ fileio#include <stdio.h>
 
 //ojama simasu!!
 
-//ojama simasita!!!
 
 
 
