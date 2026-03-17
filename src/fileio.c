@@ -1,6 +1,20 @@
 fileio#include <stdio.h>
 #include "fileio.h"
 
+//ojama simasu!!
+
+//waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+//ojama simasita!!!
+
+
+
+
+
+
+
+
+
 void saveToFile(const char *filename, const Employee employees[], int count) {
     FILE *fp = fopen(filename, "w");
     if (fp == NULL) {
