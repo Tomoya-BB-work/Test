@@ -3,8 +3,6 @@ fileio#include <stdio.h>
 
 //ojama simasu!!
 
-//waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
 //ojama simasita!!!
 
 
