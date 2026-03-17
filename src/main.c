@@ -15,7 +15,7 @@ static void printMenu(void) {
     printf("選択してください: ");
 }
 
-// 
+// }
 
 int main(void) {
     Employee employees[MAX_EMPLOYEES];
