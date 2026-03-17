@@ -14,7 +14,7 @@ void addEmployee(Employee employees[], int *count) {
 
     Employee emp;
 
-    printf("社員IDを入力してください: ");
+    printf("社員IDを入力してください！！: ");
     scanf("%d", &emp.id);
 
     printf("名前を入力してください: ");
